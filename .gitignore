@@ -1,4 +1,5 @@
 ### Composer ###
 composer.phar
-/vendor/
+/temp/vendor/
 /.idea/
+/temp/
